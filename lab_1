@@ -1,0 +1,10 @@
+def func(a,b):
+   return a*b
+
+a=int(input() )
+b=int(input() )
+
+if func(a,b)>1000:
+   print(a+b )
+elif:
+   print(func(a,b) )
